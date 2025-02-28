@@ -1,2 +1,2 @@
 # karamba
-silly fella
+smart fella
